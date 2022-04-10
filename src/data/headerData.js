@@ -1,4 +1,4 @@
-import resume from '../assets/pdf/resume.pdf'
+import aidanResume from '../assets/pdf/aidanResume.pdf'
 import profileImg from '../assets/png/profileImg.jpg'
 
 export const headerData = {
@@ -7,5 +7,5 @@ export const headerData = {
   description:
     '" You miss 100% of the shots you don\'t take " -Wayne Gretzky -Michael Scott',
   image: profileImg,
-  resumePdf: resume,
+  resumePdf: aidanResume,
 }
