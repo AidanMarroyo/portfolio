@@ -131,7 +131,7 @@ function Navbar() {
   return (
     <div className='navbar'>
       <div className='navbar--container'>
-        <h1 style={{ color: theme.secondary }}>AidanArroyo</h1>
+        <h1 style={{ color: theme.secondary }}>Aidan Manuel-Arroyo</h1>
 
         <IoMenuSharp
           className={classes.navMenu}
